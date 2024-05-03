@@ -20,4 +20,4 @@ const App = () => {
   return <div>{routes}</div>;   
 };
 
-export default App
+export default App;
